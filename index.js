@@ -88,10 +88,11 @@ function winner() {
     });
 }
 
+async function main() {
+    await welcome()
+    await takeUserAnswers()
+    await checkAndAskQuestion()
+    winner();
+} 
 
-
-
-await welcome()
-await takeUserAnswers()
-await checkAndAskQuestion()
-winner();
+main()
