@@ -37,7 +37,7 @@ async function welcome() {
     `);
 }
 
-async function takeUserAnswers() {
+async function getUserName() {
     const userName = await inquirer.prompt({
         name: 'player_name',
         type: 'input',
@@ -90,7 +90,7 @@ function winner() {
 
 async function main() {
     await welcome()
-    await takeUserAnswers()
+    await getUserName()
     await checkAndAskQuestion()
     winner();
 } 
