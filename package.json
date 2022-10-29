@@ -1,13 +1,13 @@
 {
-  "name": "cli-node-game",
-  "version": "1.0.2",
+  "name": "cli-fun-game",
+  "version": "1.0.0",
   "description": "Simple cli node game",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Cli", "Game","Nodejs"],
+  "keywords": ["cli", "fun", "game","node"],
   "author": "Prakash Dahal",
   "license": "ISC",
   "bin": "./index.js",
