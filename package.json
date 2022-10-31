@@ -1,6 +1,6 @@
 {
   "name": "cli-fun-game",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple cli node game",
   "main": "index.js",
   "type": "module",

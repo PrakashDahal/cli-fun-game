@@ -11,8 +11,10 @@ npx cli-node-game
 
 *Note: Node version > 12*
 
+#### This is just for fun. Don't be serious.
 
-#### This is just for fun.
+[Visit source code](https://github.com/PrakashDahal/cli-fun-game)
+
 ---
 
 ##### Reference: https://www.youtube.com/watch?v=_oHByo8tiEY

@@ -13,9 +13,9 @@ const questionList = {
         question: 'Where did programmers learn to program?',
         options: [
             'Stackoverflow University',
-            'Regular University',
+            'Oxford University',
             'Self',
-            'Programming does not need learning'
+            'Programming does not need University'
         ],
         correctAnswer: 'Stackoverflow University'
     },
