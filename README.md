@@ -6,7 +6,7 @@ Give all the correct answers to get *CONGRATULATION*
 
 ## If node js is installed in your machine, you should have npm and npx in your machine
 ```
-npx cli-node-game
+npx cli-fun-game
 ```
 
 *Note: Node version > 12*
@@ -14,6 +14,7 @@ npx cli-node-game
 #### This is just for fun. Don't be serious.
 
 [Visit source code](https://github.com/PrakashDahal/cli-fun-game)
+[Visit Npm](https://www.npmjs.com/package/cli-fun-game)
 
 ---
 
